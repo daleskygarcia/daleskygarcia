@@ -1,7 +1,7 @@
 #sobre mim
 
 - 👋 Ola, eu sou @dalesky
-- 👀 Estou interessado em a dança
+- 👀 Estou interessado em construir app's e site (jogos)
 - 🌱 Atualmente estou aprendendo HTML, Css e Java Scrript
 - 💞️ Procuro colaborar com os projetos de pensamentos computacional
 - 📫 Intre em contato comigo por daleski.garcia@escola.pr.gov.br
